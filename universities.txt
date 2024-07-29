@@ -1,0 +1,3 @@
+KU, South campus
+KU, North Campus
+KU, Main Campus
